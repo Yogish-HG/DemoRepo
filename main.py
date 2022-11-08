@@ -1,4 +1,4 @@
 print("helloworld2")
-for i in range(5):
-    print(i)
+for ij in range(5):
+    print(ij)
 # practice the code
